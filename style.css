@@ -175,3 +175,12 @@ h2{
         margin-top: 150px;
     }
 }
+
+@media only screen and (min-width:1800px){
+    h2{
+        margin-top:38px;
+    }
+    .shop-now{
+        margin-top: 155px;
+    }
+}
