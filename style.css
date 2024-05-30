@@ -166,3 +166,12 @@ h2{
         margin-top: 120px;
     }
 }
+
+@media only screen and (min-width:1700px){
+    h2{
+        margin-top:40px;
+    }
+    .shop-now{
+        margin-top: 160px;
+    }
+}
